@@ -1,0 +1,13 @@
+[project]
+name = "dp-ml-ai-eyoub-beraki-de-24"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.51.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
